@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxilirator
-- 👀 I’m interested in functions, c and ai.
-- 🌱 I’m currently learning c#, python, winforms, deep rl.
+- 👀 I’m interested in ai
+- 🌱 I’m currently learning transformers.
 
 <!---
 maxilirator/maxilirator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
