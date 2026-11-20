@@ -13,7 +13,7 @@ do real work in business-critical flows, and where the output can be trusted.
   (samfällighetsföreningar) covering property register, member portal, annual
   meetings, billing and bookkeeping. Nuxt/Vue and Frappe/ERPNext, integrated with
   Lantmäteriet's APIs and GIS. Business rules become code and tests with traceable rule IDs.
-- **ERPNext Sweden**: open-source Swedish bank integrations for ERPNext.
+- **[ERPNext Sweden](https://github.com/docTechSys/erpnext_sweden)**: open-source Swedish bank integrations for ERPNext.
   camt.053 and BgMax import, pain.001 payment export and payment reference validation.
 
 ### Stack
